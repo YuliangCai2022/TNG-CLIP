@@ -1,4 +1,4 @@
-# TNG-CLIP (We are still working on uploading the source code and benchmark)
+# TNG-CLIP (We are still working on uploading the source code)
 
 ## Environment Setup
 To install the environment for the code:
